@@ -10,8 +10,7 @@ categories: [webpack,FE,前端,构建工具]
 # 前言
 最近一段时间在项目中使用了webpack和React来开发，总之来说也是遇到了许多坑，webpack毕竟还是比较新的技术，而且也很难有一个很好的构建案例来适应所有的项目，总之，在看了许多项目demo和官方文档以及官方推荐的tutorials之后，也算是自己总结出的一套最佳实践吧。
 ## 代码
-代码可以在我的[Github](https://github.com/TongchengQiu/webpack-best-practice)上。
-[可以戳这里～～](https://github.com/TongchengQiu/webpack-best-practice)。
+ 
 # package.json 命令配置
 既然是需要用到的是实际项目的构建，那么必然就要考虑开发环境和生产环境下的配置项了：
 ```
